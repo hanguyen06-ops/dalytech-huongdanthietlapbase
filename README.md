@@ -1,4 +1,4 @@
-# Daly × Base.vn – Hướng dẫn thiết lập cho Quản trị cấp cao
+# Dalytech × Base.vn – Hướng dẫn thiết lập cho Quản trị cấp cao
 
 Trang HDSD một file (`index.html`, ảnh và CSS/JS nhúng sẵn). Deploy: đưa 3 file `index.html`, `vercel.json`, `README.md` lên GitHub, nối với Vercel.
 - Mặc định công khai nhưng không cho Google lập chỉ mục (header `X-Robots-Tag` + meta robots).
